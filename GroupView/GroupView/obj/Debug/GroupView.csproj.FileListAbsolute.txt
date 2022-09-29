@@ -1,0 +1,31 @@
+D:\IS-32\Соколов и Широков\GroupView\GroupView\bin\Debug\GroupView.exe.config
+D:\IS-32\Соколов и Широков\GroupView\GroupView\bin\Debug\GroupView.exe
+D:\IS-32\Соколов и Широков\GroupView\GroupView\bin\Debug\GroupView.pdb
+D:\IS-32\Соколов и Широков\GroupView\GroupView\obj\Debug\GroupView.csproj.AssemblyReference.cache
+D:\IS-32\Соколов и Широков\GroupView\GroupView\obj\Debug\View\Window\MainWindow.g.cs
+D:\IS-32\Соколов и Широков\GroupView\GroupView\obj\Debug\App.g.cs
+D:\IS-32\Соколов и Широков\GroupView\GroupView\obj\Debug\GroupView_MarkupCompile.cache
+D:\IS-32\Соколов и Широков\GroupView\GroupView\obj\Debug\GroupView_MarkupCompile.lref
+D:\IS-32\Соколов и Широков\GroupView\GroupView\obj\Debug\View\Window\MainWindow.baml
+D:\IS-32\Соколов и Широков\GroupView\GroupView\obj\Debug\GroupView.g.resources
+D:\IS-32\Соколов и Широков\GroupView\GroupView\obj\Debug\GroupView.Properties.Resources.resources
+D:\IS-32\Соколов и Широков\GroupView\GroupView\obj\Debug\GroupView.csproj.GenerateResource.cache
+D:\IS-32\Соколов и Широков\GroupView\GroupView\obj\Debug\GroupView.csproj.CoreCompileInputs.cache
+D:\IS-32\Соколов и Широков\GroupView\GroupView\obj\Debug\GroupView.exe
+D:\IS-32\Соколов и Широков\GroupView\GroupView\obj\Debug\GroupView.pdb
+C:\Users\Admin\Desktop\GroupView\GroupView\bin\Debug\GroupView.exe.config
+C:\Users\Admin\Desktop\GroupView\GroupView\bin\Debug\GroupView.exe
+C:\Users\Admin\Desktop\GroupView\GroupView\bin\Debug\GroupView.pdb
+C:\Users\Admin\Desktop\GroupView\GroupView\obj\Debug\GroupView.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GroupView\GroupView\obj\Debug\GroupView.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\GroupView\GroupView\obj\Debug\View\Window\MainWindow.g.cs
+C:\Users\Admin\Desktop\GroupView\GroupView\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\GroupView\GroupView\obj\Debug\GroupView_MarkupCompile.cache
+C:\Users\Admin\Desktop\GroupView\GroupView\obj\Debug\GroupView_MarkupCompile.lref
+C:\Users\Admin\Desktop\GroupView\GroupView\obj\Debug\View\Window\MainWindow.baml
+C:\Users\Admin\Desktop\GroupView\GroupView\obj\Debug\GroupView.g.resources
+C:\Users\Admin\Desktop\GroupView\GroupView\obj\Debug\GroupView.Properties.Resources.resources
+C:\Users\Admin\Desktop\GroupView\GroupView\obj\Debug\GroupView.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\GroupView\GroupView\obj\Debug\GroupView.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GroupView\GroupView\obj\Debug\GroupView.exe
+C:\Users\Admin\Desktop\GroupView\GroupView\obj\Debug\GroupView.pdb

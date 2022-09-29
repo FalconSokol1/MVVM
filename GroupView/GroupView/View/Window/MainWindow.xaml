@@ -1,0 +1,16 @@
+﻿<Window x:Class="GroupView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GroupView"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="388" Width="854">
+    <Grid Margin="0,0,0,-58">
+        <Button Content="Сцепить" HorizontalAlignment="Left" Margin="284,254,0,0" VerticalAlignment="Top" Width="212" Height="58" FontSize="22" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Left" Margin="284,99,0,0" TextWrapping="Wrap" Text="{Binding TextOne}" VerticalAlignment="Top" Width="212" FontSize="18" Background="#FF71FF00"/>
+        <TextBox HorizontalAlignment="Left" Margin="284,139,0,0" TextWrapping="Wrap" Text="{Binding TextTwo}" VerticalAlignment="Top" Width="212" FontSize="18" Background="#FFDAFF00"/>
+        <TextBox HorizontalAlignment="Left" Margin="284,179,0,0" TextWrapping="Wrap" Text="{Binding TextSum}" VerticalAlignment="Top" Width="212" Height="26" Background="#FFFFF500"/>
+        <Button Content="Очистить" HorizontalAlignment="Left" Margin="519,264,0,0" VerticalAlignment="Top" Height="38" Width="103" Click="Button_Click_1"/>
+    </Grid>
+</Window>
